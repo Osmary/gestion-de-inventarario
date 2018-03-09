@@ -1,0 +1,2 @@
+# gestion-de-inventarario
+pasantia
